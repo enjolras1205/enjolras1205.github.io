@@ -7,3 +7,5 @@ pygments: true
 permalink: /:title
 title: dingxinglong's blog
 
+
+theme: jekyll-theme-slate
